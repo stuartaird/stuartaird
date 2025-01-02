@@ -6,10 +6,7 @@ I'm a career switcher and graduate of the [Northcoders](https://northcoders.com/
 
 ## Current Focus
 My personal development goals for this year include:-
-- Completing the [CS50W](https://cs50.harvard.edu/web/2020/) and [CS50P](https://cs50.harvard.edu/python/2022/) online courses from Harvard
-- Finishing my full CRUD Library API using Node.js, Express and PostgreSQL
-- Hosting my Javascript based Unit Conversion API (YACT)
-- Building a REST API with Python and Django
+- Completing the **100 Days of Code** challenge in Python
 
 ## Tech Stack
 My day job and personal projects use a combination of the following:-
